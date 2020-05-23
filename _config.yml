@@ -24,7 +24,7 @@ github_username:  netium
 
 # Build settings
 markdown: GFM
-theme: jekyll-theme-hacker
+theme: minima
 #theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
