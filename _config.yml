@@ -23,10 +23,12 @@ twitter_username: zbnetium
 github_username:  netium
 
 # Build settings
-markdown: kramdown
-theme: minima
+markdown: GFM
+theme: jekyll-theme-hacker
+#theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
+  - jekyll-diagrams
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
